@@ -1,5 +1,7 @@
 # Astro Starter Kit: Blog
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/91610919/221359355-83a4b15d-b84c-4387-b1f6-56d8799181c6.png">
+</p>
 ```
 npm create astro@latest -- --template blog
 ```
