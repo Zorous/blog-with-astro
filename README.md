@@ -2,10 +2,11 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91610919/221359355-83a4b15d-b84c-4387-b1f6-56d8799181c6.png">
 </p>
-
+<p>When you try to build your personal Blog as a developper there's a bunch of new and old cool frameworks and tools that you could use, each of them has their advantages and disadvantages, and this is just a demo project to review Astro's features</p>
 <p>
   Astro Islands represent a leading paradigm shift for frontend web architecture. Astro extracts your UI into smaller, isolated components on the page. Unused JavaScript is replaced with lightweight HTML, guaranteeing faster loads and time-to-interactive (TTI).
  </p>
+ <br>
 ```
 npm create astro@latest -- --template blog
 ```
@@ -14,6 +15,7 @@ npm create astro@latest -- --template blog
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
 
+<br>
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
 
